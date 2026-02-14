@@ -8,6 +8,36 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 5996b92e061538a4f9ab85d77c4f38da
+  - enabled: 1
+    path: Assets/Scenes/Order.unity
+    guid: 3bc11746eae7178489a69095d6d0bbed
+  - enabled: 1
+    path: Assets/Scenes/Bone_Rph.unity
+    guid: 89bcce86a731a2f4c96e0bf439fa39d8
+  - enabled: 1
+    path: Assets/Scenes/Muga_Rph.unity
+    guid: 97cbf3e19dd83e342bf7d8f38cc13db6
+  - enabled: 1
+    path: Assets/Scenes/Parathyroid_Rph.unity
+    guid: f634395f34f787145b1c320119e45a3b
+  - enabled: 1
+    path: Assets/Scenes/Renal_Rph.unity
+    guid: d7bb19cbcbbf6b74c91944b8d1528712
+  - enabled: 1
+    path: Assets/Scenes/Bone_uptake.unity
+    guid: be87b4ce88b97b84d9a4ed2a64b570e5
+  - enabled: 1
+    path: Assets/Scenes/MUGA_uptake.unity
+    guid: 5cc9eb25d1e8d8548b9069a78d373216
+  - enabled: 1
+    path: Assets/Scenes/Para_uptake.unity
+    guid: 0731c87229bf8c54aa291058c8ab8ff8
+  - enabled: 1
+    path: Assets/Scenes/Renal_uptake.unity
+    guid: be9ab215bade41f4fa5e7c71e1e54101
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
