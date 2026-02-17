@@ -38,6 +38,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Renal_uptake.unity
     guid: be9ab215bade41f4fa5e7c71e1e54101
+  - enabled: 1
+    path: Assets/Scenes/Restart.unity
+    guid: 4d36fee4dc979a548856b6a10b7a8378
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
