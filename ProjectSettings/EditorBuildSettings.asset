@@ -39,8 +39,29 @@ EditorBuildSettings:
     path: Assets/Scenes/Renal_uptake.unity
     guid: be9ab215bade41f4fa5e7c71e1e54101
   - enabled: 1
-    path: Assets/Scenes/Result_image3.unity
+    path: Assets/Scenes/resultbone.unity
+    guid: a493e7b2151a19a4ab06d1d1e2f6c8bf
+  - enabled: 1
+    path: Assets/Scenes/resultpara.unity
+    guid: ff134ecb0c4ecfe4fb5dc6ea5609211f
+  - enabled: 1
+    path: Assets/Scenes/resultcadiac.unity
     guid: 01dfeeec59ff6914a81c9d2419d3c845
+  - enabled: 1
+    path: Assets/Scenes/resultrenal.unity
+    guid: 632ed06a050251f4e9b2c25ce51720c9
+  - enabled: 1
+    path: Assets/Scenes/spectctbone.unity
+    guid: 8874f0452cc60504797d689152b94572
+  - enabled: 1
+    path: Assets/Scenes/spectctcadiac.unity
+    guid: 0c410507fe74f6f48848dda17f101ed5
+  - enabled: 1
+    path: Assets/Scenes/spectctpara.unity
+    guid: ee368a80f82ea4b48be4d2dd688bce2b
+  - enabled: 1
+    path: Assets/Scenes/spectctrenal.unity
+    guid: 89a487caf483b4b47a3b9b5efa0be5ce
   - enabled: 1
     path: Assets/Scenes/Restart.unity
     guid: 4d36fee4dc979a548856b6a10b7a8378
