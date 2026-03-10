@@ -214,6 +214,7 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 268603355}
+  - {fileID: 1975428021}
   - {fileID: 1950080453}
   - {fileID: 486048018}
   m_Father: {fileID: 0}
@@ -929,6 +930,7 @@ GameObject:
   - component: {fileID: 1950080456}
   - component: {fileID: 1950080455}
   - component: {fileID: 1950080454}
+  - component: {fileID: 1950080457}
   m_Layer: 5
   m_Name: go
   m_TagString: Untagged
@@ -999,7 +1001,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1950080455}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1975428020}
+        m_TargetAssemblyTypeName: inditoya, Assembly-CSharp
+        m_MethodName: gotoya
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1950080455
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1038,6 +1052,62 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1950080452}
   m_CullTransparentMesh: 1
+--- !u!114 &1950080457
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1950080452}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638c06d4a1bf344eaf5f7d513f9cd36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::inditoya
+--- !u!1 &1975428019
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1975428021}
+  - component: {fileID: 1975428020}
+  m_Layer: 0
+  m_Name: inditoya
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1975428020
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975428019}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2638c06d4a1bf344eaf5f7d513f9cd36, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::inditoya
+--- !u!4 &1975428021
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1975428019}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -540, z: 1716.6838}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 65922085}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

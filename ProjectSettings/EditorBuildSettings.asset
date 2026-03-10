@@ -12,44 +12,35 @@ EditorBuildSettings:
     path: Assets/Scenes/Mainmenu.unity
     guid: 5996b92e061538a4f9ab85d77c4f38da
   - enabled: 1
-    path: Assets/Scenes/Order.unity
-    guid: 3bc11746eae7178489a69095d6d0bbed
+    path: Assets/Scenes/Indication.unity
+    guid: ad8dd5859a7cf8d4dab3580cd118e022
   - enabled: 1
     path: Assets/Scenes/Bone_Rph.unity
     guid: 89bcce86a731a2f4c96e0bf439fa39d8
   - enabled: 1
-    path: Assets/Scenes/Muga_Rph.unity
-    guid: 97cbf3e19dd83e342bf7d8f38cc13db6
+    path: Assets/Scenes/MDP.unity
+    guid: ac694e3005a542b42976ee76cbc5886b
   - enabled: 1
-    path: Assets/Scenes/Parathyroid_Rph.unity
-    guid: f634395f34f787145b1c320119e45a3b
+    path: Assets/Scenes/Collimator.unity
+    guid: 25f6df1d6036e1a4186165119b04e32e
   - enabled: 1
-    path: Assets/Scenes/Renal_Rph.unity
-    guid: d7bb19cbcbbf6b74c91944b8d1528712
+    path: Assets/Scenes/Dose.unity
+    guid: 1ec93a216293e304c88f427d2d7ff20f
+  - enabled: 1
+    path: Assets/Scenes/afterinject.unity
+    guid: bc313423acd4adf41a31301afd2db9b3
   - enabled: 1
     path: Assets/Scenes/Bone_uptake.unity
     guid: be87b4ce88b97b84d9a4ed2a64b570e5
   - enabled: 1
-    path: Assets/Scenes/MUGA_uptake.unity
-    guid: 5cc9eb25d1e8d8548b9069a78d373216
+    path: Assets/Scenes/3hr.unity
+    guid: b5ade43650f7fa744b2673d3d0f67dc6
   - enabled: 1
-    path: Assets/Scenes/Para_uptake.unity
-    guid: 0731c87229bf8c54aa291058c8ab8ff8
-  - enabled: 1
-    path: Assets/Scenes/Renal_uptake.unity
-    guid: be9ab215bade41f4fa5e7c71e1e54101
+    path: Assets/Scenes/resultbone0.unity
+    guid: ee77692059c108843a87dbd0d5db5a8c
   - enabled: 1
     path: Assets/Scenes/resultbone.unity
     guid: a493e7b2151a19a4ab06d1d1e2f6c8bf
-  - enabled: 1
-    path: Assets/Scenes/resultpara.unity
-    guid: ff134ecb0c4ecfe4fb5dc6ea5609211f
-  - enabled: 1
-    path: Assets/Scenes/resultcadiac.unity
-    guid: 01dfeeec59ff6914a81c9d2419d3c845
-  - enabled: 1
-    path: Assets/Scenes/resultrenal.unity
-    guid: 632ed06a050251f4e9b2c25ce51720c9
   - enabled: 1
     path: Assets/Scenes/spectctbone.unity
     guid: 8874f0452cc60504797d689152b94572
