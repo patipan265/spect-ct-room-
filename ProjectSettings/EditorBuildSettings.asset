@@ -12,6 +12,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Mainmenu.unity
     guid: 5996b92e061538a4f9ab85d77c4f38da
   - enabled: 1
+    path: Assets/Scenes/menumenu.unity
+    guid: 1ad2b7ebca5a13d4cb7ecf4ca1865d2f
+  - enabled: 1
+    path: Assets/Scenes/crytal.unity
+    guid: 63e068fe5cd568a42904dabc4d5717bb
+  - enabled: 1
+    path: Assets/Scenes/PMT.unity
+    guid: af88e094cac267348bd7389563faa5b3
+  - enabled: 1
+    path: Assets/Scenes/ctscan.unity
+    guid: ece46e4daafd8854c82c43737781c343
+  - enabled: 1
+    path: Assets/Scenes/collimatorex.unity
+    guid: 4ab93b86690f44a43a5483c368ec8fa8
+  - enabled: 1
     path: Assets/Scenes/Indication.unity
     guid: ad8dd5859a7cf8d4dab3580cd118e022
   - enabled: 1
