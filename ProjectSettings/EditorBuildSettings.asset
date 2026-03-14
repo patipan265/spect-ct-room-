@@ -60,6 +60,57 @@ EditorBuildSettings:
     path: Assets/Scenes/spectctbone.unity
     guid: 8874f0452cc60504797d689152b94572
   - enabled: 1
+    path: Assets/Scenes/Tc_Indication.unity
+    guid: bc5019e2b6052c54da14f68e0b2d8f7f
+  - enabled: 1
+    path: Assets/Scenes/Tc_tracer.unity
+    guid: e11d1f40821a6c04c8f092df521b56b0
+  - enabled: 1
+    path: Assets/Scenes/Tc_pertechnetate.unity
+    guid: 45b17b7f37611324c89ff7d38bd0292c
+  - enabled: 1
+    path: Assets/Scenes/Tc_collimator.unity
+    guid: 5a61fef428bfbb34cafdd12120ce2ffd
+  - enabled: 1
+    path: Assets/Scenes/Tc_dose.unity
+    guid: a429be28f7bfdb148968f5c5ceebea25
+  - enabled: 1
+    path: Assets/Scenes/Tc_after.unity
+    guid: 68c84fcf6a92ebd48ae55b5a89086e59
+  - enabled: 1
+    path: Assets/Scenes/Tc_uptake.unity
+    guid: 43908fc2010224446a4d30d1cab7f20e
+  - enabled: 1
+    path: Assets/Scenes/Tc_15mins.unity
+    guid: 23dff71ec42b94c4797a96676424569d
+  - enabled: 1
+    path: Assets/Scenes/I_Indication.unity
+    guid: 5199f548810bac547bcf957c62d69c89
+  - enabled: 1
+    path: Assets/Scenes/I_131.unity
+    guid: 8de226dbaa80b584f87f6fed6a23984b
+  - enabled: 1
+    path: Assets/Scenes/I_Collimator.unity
+    guid: 5d4d2acf7f5a0d94aa41753ee08a9ca0
+  - enabled: 1
+    path: Assets/Scenes/I_diag.unity
+    guid: 00848ede0e5bdbc4ba4bf0d758537be7
+  - enabled: 1
+    path: Assets/Scenes/I_therapy.unity
+    guid: c74fb4a06e95b814787b8bba5add264d
+  - enabled: 1
+    path: Assets/Scenes/I_after1.unity
+    guid: a620307893f2f0b43b7fd67230cfebf6
+  - enabled: 1
+    path: Assets/Scenes/I_after2.unity
+    guid: 28fc44ec03f7f3e4f8d629206348b82c
+  - enabled: 1
+    path: Assets/Scenes/I_uptake.unity
+    guid: d194febb7183fd64f8b4c602b61075fe
+  - enabled: 1
+    path: Assets/Scenes/I_24hr.unity
+    guid: f27099fcafc32594bb69f7bd21db9e52
+  - enabled: 1
     path: Assets/Scenes/spectctcadiac.unity
     guid: 0c410507fe74f6f48848dda17f101ed5
   - enabled: 1
