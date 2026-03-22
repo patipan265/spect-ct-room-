@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Mainmenu.unity
     guid: 5996b92e061538a4f9ab85d77c4f38da
   - enabled: 1
+    path: Assets/Scenes/spectctwork.unity
+    guid: c3daad0fba8839840ae2ebba68b08d1f
+  - enabled: 1
     path: Assets/Scenes/menumenu.unity
     guid: 1ad2b7ebca5a13d4cb7ecf4ca1865d2f
   - enabled: 1
@@ -51,11 +54,14 @@ EditorBuildSettings:
     path: Assets/Scenes/3hr.unity
     guid: b5ade43650f7fa744b2673d3d0f67dc6
   - enabled: 1
+    path: Assets/Scenes/resultbone.unity
+    guid: a493e7b2151a19a4ab06d1d1e2f6c8bf
+  - enabled: 1
     path: Assets/Scenes/resultbone0.unity
     guid: ee77692059c108843a87dbd0d5db5a8c
   - enabled: 1
-    path: Assets/Scenes/resultbone.unity
-    guid: a493e7b2151a19a4ab06d1d1e2f6c8bf
+    path: Assets/Scenes/resultbone_1.unity
+    guid: ba584bb7201821544a1f7fc4c41c3517
   - enabled: 1
     path: Assets/Scenes/spectctbone.unity
     guid: 8874f0452cc60504797d689152b94572
@@ -84,6 +90,15 @@ EditorBuildSettings:
     path: Assets/Scenes/Tc_15mins.unity
     guid: 23dff71ec42b94c4797a96676424569d
   - enabled: 1
+    path: Assets/Scenes/spectthyroid1.unity
+    guid: ad200d0c7cc728d4da670b229b2e8802
+  - enabled: 1
+    path: Assets/Scenes/results_tc1.unity
+    guid: 36decc92f3bd59f43b5e04b3cfe7503b
+  - enabled: 1
+    path: Assets/Scenes/results_tc2.unity
+    guid: 6f87263601e74d5429f0992fc9f8184b
+  - enabled: 1
     path: Assets/Scenes/I_Indication.unity
     guid: 5199f548810bac547bcf957c62d69c89
   - enabled: 1
@@ -111,14 +126,14 @@ EditorBuildSettings:
     path: Assets/Scenes/I_24hr.unity
     guid: f27099fcafc32594bb69f7bd21db9e52
   - enabled: 1
-    path: Assets/Scenes/spectctcadiac.unity
-    guid: 0c410507fe74f6f48848dda17f101ed5
+    path: Assets/Scenes/results_I1.unity
+    guid: ed16bb6b0f04d714aa6b71e274b79cf5
   - enabled: 1
-    path: Assets/Scenes/spectctpara.unity
-    guid: ee368a80f82ea4b48be4d2dd688bce2b
+    path: Assets/Scenes/results_I2.unity
+    guid: 83270d1b1fc56ca4ebf451e3470a98ac
   - enabled: 1
-    path: Assets/Scenes/spectctrenal.unity
-    guid: 89a487caf483b4b47a3b9b5efa0be5ce
+    path: Assets/Scenes/spectthyroid2.unity
+    guid: 861c695e3f920ac439fdefe531d265c0
   - enabled: 1
     path: Assets/Scenes/Restart.unity
     guid: 4d36fee4dc979a548856b6a10b7a8378
