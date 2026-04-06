@@ -662,7 +662,6 @@ GameObject:
   m_Component:
   - component: {fileID: 794866484}
   - component: {fileID: 794866487}
-  - component: {fileID: 794866485}
   - component: {fileID: 794866486}
   m_Layer: 5
   m_Name: RawImage
@@ -690,40 +689,6 @@ RectTransform:
   m_AnchoredPosition: {x: -1.3179932, y: -0.00061035156}
   m_SizeDelta: {x: 1920, y: 1080}
   m_Pivot: {x: 0.5, y: 0.5}
---- !u!328 &794866485
-VideoPlayer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 794866483}
-  m_Enabled: 1
-  m_VideoClip: {fileID: 32900000, guid: 246a4453a3aca8845a7223322da95bf8, type: 3}
-  m_TargetCameraAlpha: 1
-  m_TargetCamera3DLayout: 0
-  m_TargetCamera: {fileID: 0}
-  m_TargetTexture: {fileID: 8400000, guid: 03ab764dc59ae4a4e9842eee94403223, type: 2}
-  m_TimeReference: 0
-  m_TargetMaterialRenderer: {fileID: 0}
-  m_TargetMaterialProperty: <noninit>
-  m_RenderMode: 2
-  m_AspectRatio: 2
-  m_DataSource: 0
-  m_TimeUpdateMode: 2
-  m_PlaybackSpeed: 1
-  m_AudioOutputMode: 2
-  m_TargetAudioSources: []
-  m_DirectAudioVolumes: []
-  m_Url: 
-  m_EnabledAudioTracks: 
-  m_DirectAudioMutes: 
-  m_ControlledAudioTrackCount: 0
-  m_PlayOnAwake: 1
-  m_SkipOnDrop: 1
-  m_Looping: 1
-  m_WaitForFirstFrame: 1
-  m_FrameReadyEventEnabled: 0
-  m_VideoShaders: []
 --- !u!114 &794866486
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -744,7 +709,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Texture: {fileID: 8400000, guid: 03ab764dc59ae4a4e9842eee94403223, type: 2}
+  m_Texture: {fileID: 2800000, guid: 1514bf9ca33f16648bc22dd4da03d0b9, type: 3}
   m_UVRect:
     serializedVersion: 2
     x: 0
